@@ -1,0 +1,12 @@
+.Counter-Container {
+    margin-left: 0 !important;
+    margin-bottom: 50;
+}
+
+.Counter-Item {
+    padding-left: 0 !important;
+}
+
+.Counter-Paper {
+    width: auto;
+}
